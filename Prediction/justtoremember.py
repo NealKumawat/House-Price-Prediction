@@ -1,0 +1,1 @@
+df['column'] = df['column'].str.strip("123./@#$%^&*")

@@ -13,3 +13,8 @@ df = pd.read_csv(csv_file)
 
 df = df.drop(['availability', 'society', 'bath'], axis=1)
 print(df.shape)
+
+# Deletion of duplicate entries
+df = df.drop_duplicates()
+
+print(df.shape)
