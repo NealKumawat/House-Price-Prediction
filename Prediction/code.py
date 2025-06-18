@@ -21,4 +21,3 @@ df = df.drop_duplicates()
 # To just remain with the numbers
 df['size'] = df['size'].str.replace(['^0-9'], '')
 print(df)
-
