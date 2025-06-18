@@ -16,7 +16,7 @@ print(df.shape)
 
 # Deletion of duplicate entries
 df = df.drop_duplicates()
-
+print(df.shape)
 
 # To just remain with the numbers
 df['size'] = df['size'].str.replace(['^0-9'], '')
