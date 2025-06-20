@@ -11,7 +11,7 @@ csv_file = 'Prediction/Data/Bengaluru_House_Data.csv'
 # Load the CSV file
 df = pd.read_csv(csv_file)
 
-df = df.drop(['availability', 'society', 'bath'], axis=1)
+df = df.drop(['Availability', 'Society', 'Bath'], axis=1)
 print(df.shape)
 
 # Deletion of duplicate entries
@@ -19,5 +19,5 @@ df = df.drop_duplicates()
 print(df.shape)
 
 # To just remain with the numbers
-df['size'] = df['size'].str.replace(['^0-9'], '')
+df['Size'] = df['Size'].str.replace(['^0-9'], '')
 print(df)
