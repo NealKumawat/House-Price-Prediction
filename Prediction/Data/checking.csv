@@ -1,13 +1,13 @@
 Location,count
-Other,4177
 Whitefield,488
+Other,465
 Sarjapur  Road,339
 Electronic City,277
 Thanisandra,226
 Kanakpura Road,216
 Yelahanka,202
-Marathahalli,156
 Raja Rajeshwari Nagar,156
+Marathahalli,156
 Uttarahalli,154
 Hebbal,144
 Bannerghatta Road,141
@@ -16,24 +16,24 @@ Hennur Road,132
 Electronic City Phase II,119
 Rajaji Nagar,99
 Bellandur,88
-Electronics City Phase 1,86
 Hoodi,86
+Electronics City Phase 1,86
 KR Puram,85
 Haralur Road,82
 Sarjapur,81
-Kasavanhalli,76
 Yeshwanthpur,76
+Kasavanhalli,76
 Harlur,72
-Ramamurthy Nagar,71
 Begur Road,71
-Hormavu,70
+Ramamurthy Nagar,71
 Banashankari,70
 Kengeri,70
+Hormavu,70
 Koramangala,67
 Varthur,66
 Hosa Road,66
-Chandapura,65
 Jakkur,65
+Chandapura,65
 Old Madras Road,64
 JP Nagar,63
 Kaggadasapura,61
@@ -42,8 +42,8 @@ Akshaya Nagar,56
 8th Phase JP Nagar,54
 Kothanur,54
 Malleshwaram,50
-Panathur,49
 Hulimavu,49
+Panathur,49
 Gottigere,48
 Mysore Road,48
 Jigani,47
@@ -57,79 +57,746 @@ Hennur,44
 Hosur Road,43
 Brookefield,43
 TC Palaya,42
-Kundalahalli,42
 Bisuvanahalli,42
-CV Raman Nagar,41
-Vijayanagar,41
+Kundalahalli,42
 Rachenahalli,41
+Vijayanagar,41
 Yelahanka New Town,41
+CV Raman Nagar,41
 Horamavu Agara,40
+Bhoganhalli,39
 Indira Nagar,39
 Subramanyapura,39
 Kengeri Satellite Town,39
 Attibele,39
-Bhoganhalli,39
-Kanakapura,38
-Vidyaranyapura,38
 Devanahalli,38
+Vidyaranyapura,38
+Kanakapura,38
+Kadugodi,37
+HSR Layout,37
 Channasandra,37
 Green Glen Layout,37
-HSR Layout,37
-Kadugodi,37
 9th Phase JP Nagar,37
 Talaghattapura,36
-Lakshminarayana Pura,35
 5th Phase JP Nagar,35
+Lakshminarayana Pura,35
+Hosakerehalli,34
 Bommasandra,34
 Kudlu Gate,34
-Hosakerehalli,34
-Tumkur Road,33
 Kalena Agrahara,33
+Tumkur Road,33
 Bommanahalli,32
 Frazer Town,31
-Sahakara Nagar,31
 Vittasandra,31
+Sahakara Nagar,31
 R.T. Nagar,30
-Kumaraswami Layout,29
-Chikkalasandra,29
-Ambedkar Nagar,29
 Kammasandra,29
+Ambedkar Nagar,29
+Kumaraswami Layout,29
 Doddathoguru,29
-BTM 2nd Stage,28
-Dodda Nekkundi,28
-Mahadevpura,28
+Chikkalasandra,29
 Ananth Nagar,28
 Basavangudi,28
-Hebbal Kempapura,27
+Dodda Nekkundi,28
+BTM 2nd Stage,28
+Mahadevpura,28
 Anandapura,27
+Hebbal Kempapura,27
+Padmanabhanagar,27
 Kodichikkanahalli,27
 Anekal,27
-Padmanabhanagar,27
 Kothannur,26
-Kudlu,25
 Margondanahalli,25
-Seegehalli,25
 Horamavu Banaswadi,25
-Gubbalala,25
 Babusapalaya,25
-Ambalipura,24
+Seegehalli,25
+Kudlu,25
+Gubbalala,25
 Bommasandra Industrial Area,24
 Banashankari Stage III,24
 Battarahalli,24
 Magadi Road,24
+Ambalipura,24
 Lingadheeranahalli,23
-Somasundara Palya,23
-EPIP Zone,23
 Munnekollal,23
 Amruthahalli,23
-Kaval Byrasandra,22
-Sonnenahalli,22
-Singasandra,22
-Iblur Village,22
+Somasundara Palya,23
+EPIP Zone,23
 Abbigere,22
-Old Airport Road,22
+Sonnenahalli,22
+Kaval Byrasandra,22
 1st Phase JP Nagar,22
-Domlur,21
+Iblur Village,22
+Old Airport Road,22
+Singasandra,22
 Basaveshwara Nagar,21
-Choodasandra,21
 Rayasandra,21
+Domlur,21
+Choodasandra,21
+Hoskote,20
+Gunjur,20
+Kogilu,20
+Thubarahalli,20
+Ulsoor,20
+HBR Layout,19
+Kaggalipura,19
+Kalyan nagar,19
+Yelachenahalli,19
+OMBR Layout,19
+Ardendale,19
+2nd Stage Nagarbhavi,19
+HRBR Layout,19
+Sanjay nagar,19
+Kannamangala,18
+Binny Pete,18
+Pai Layout,18
+Kathriguppe,18
+6th Phase JP Nagar,18
+Bannerghatta,17
+Nagavara,17
+Billekahalli,17
+BTM Layout,17
+Malleshpalya,17
+Dasarahalli,17
+Sarjapura - Attibele Road,16
+Kammanahalli,16
+Banashankari Stage VI,16
+Anjanapura,16
+Begur,16
+Kereguddadahalli,16
+Garudachar Palya,16
+Dasanapura,16
+Kaikondrahalli,16
+Banashankari Stage II,16
+Banaswadi,15
+Chamrajpet,15
+Varthur Road,15
+Kasturi Nagar,15
+Kenchenahalli,15
+Arekere,15
+Mallasandra,15
+Judicial Layout,14
+Sarakki Nagar,14
+Kodihalli,14
+Kambipura,14
+Giri Nagar,14
+Sultan Palaya,14
+ Devarachikkanahalli,14
+NRI Layout,14
+Kodigehaali,13
+Chikkabanavar,13
+Chikka Tirupathi,13
+Dommasandra,13
+Cunningham Road,13
+Konanakunte,13
+Sector 7 HSR Layout,13
+Sector 2 HSR Layout,13
+Murugeshpalya,13
+Nagavarapalya,13
+Shivaji Nagar,13
+Shampura,13
+Mahalakshmi Layout,13
+Bommenahalli,13
+Bharathi Nagar,12
+Neeladri Nagar,12
+Cooke Town,12
+Vishwapriya Layout,12
+Poorna Pragna Layout,12
+Laggere,12
+Kadubeesanahalli,12
+Benson Town,12
+NGR Layout,12
+GM Palaya,12
+Jalahalli East,12
+1st Block Jayanagar,12
+Cox Town,12
+Rajiv Nagar,12
+AECS Layout,12
+Yelenahalli,12
+Sompura,12
+Doddaballapur,11
+Mico Layout,11
+Thyagaraja Nagar,11
+Banjara Layout,11
+Karuna Nagar,11
+Banashankari Stage V,11
+Prithvi Layout,11
+LB Shastri Nagar,11
+Nagasandra,11
+Gollarapalya Hosahalli,11
+Vishveshwarya Layout,11
+1st Block Koramangala,10
+Doddakallasandra,10
+Pattandur Agrahara,10
+ITPL,10
+Tindlu,10
+Marsur,10
+HAL 2nd Stage,10
+Dairy Circle,10
+Kalkere,10
+Kodigehalli,10
+Gunjur Palya,10
+Nagappa Reddy Layout,10
+Naganathapura,10
+Vasanthapura,10
+ISRO Layout,10
+Narayanapura,10
+Ganga Nagar,10
+Volagerekallahalli,9
+Dodsworth Layout,9
+2nd Phase JP Nagar,9
+Chennammana Kere,9
+Ejipura,9
+B Narayanapura,9
+Kaverappa Layout,9
+Basapura,9
+5th Block Hbr Layout,9
+Vignana Nagar,9
+Kamakshipalya,9
+Nehru Nagar,9
+Lingarajapuram,9
+Peenya,9
+Gollahalli,9
+Banagiri Nagar,9
+Chandra Layout,8
+Vasanth nagar,8
+"Sarjapur Road, ",8
+Roopena Agrahara,8
+Vishwanatha Nagenahalli,8
+Kodbisanhalli,8
+Sadashiva Nagar,8
+BEML Layout,8
+Jalahalli West,8
+Akshayanagara East,8
+Seetharampalya,8
+MS Pallya,8
+Nagadevanahalli,8
+Shikaripalya,8
+Cambridge Layout,8
+Hoysalanagar,8
+Mahalakshmi Puram,8
+Sector 1 HSR Layout,8
+Jakkur Plantation,8
+Kanaka Nagar,8
+Thirumenahalli,8
+Akshaya Vana,8
+Nelamangala,8
+Huskur,8
+2nd Phase Judicial Layout,8
+Vajarahalli,8
+Nallurhalli,8
+Hongasandra,8
+Sidedahalli,8
+BTM 1st Stage,8
+Dollars Colony,7
+Hennur Gardens,7
+Doctors Layout,7
+Channasandra Layout,7
+Jayanagar,7
+3rd Block Hrbr Layout,7
+Ittamadu,7
+Sathya Sai Layout,7
+Madiwala,7
+Vijaya Bank Layout,7
+Mathikere,7
+Reliaable Tranquil Layout,7
+"Hoodi Circle, ",7
+Canara Bank Colony,7
+Basaveshwara Nagar Yelahanka,7
+Austin Town,7
+Outer Ring Road East,7
+AGS Layout,7
+Byrasandra,7
+Cholanayakanahalli,7
+Green View Layout,7
+Victoria Layout,7
+Jeevan bima nagar,7
+Dodda Nekkundi Extension,7
+Ambedkar Colony,7
+Basavanapura,7
+Keshava Nagar,7
+8th block Koramangala,7
+Gopalkrishna Nagar,7
+Manayata Tech Park,7
+Shanti Nagar,6
+Singapura Village,6
+Samethanahalli,6
+Gopalapura,6
+Richmond Town,6
+Suraksha Nagar,6
+Hessarghatta,6
+Richards Town,6
+Doddakammanahalli,6
+Tejaswini Nagar,6
+Varanasi,6
+Dodda Banaswadi,6
+Parappana Agrahara,6
+Kundalahalli Colony,6
+Shree Ananth Nagar Layout,6
+Anand Nagar,6
+Meenakunte,6
+Bank Of Baroda Colony,6
+4th Block Koramangala,6
+Devasthanagalu,6
+Motappa Layout,6
+Abbaiah Reddy Layout,6
+Nayandanahalli,6
+ Devarabeesana Halli,6
+4th T block Jayanagar,6
+New Thippasandra,6
+Doddanekundi,6
+Shantiniketan Layout,6
+Byatarayanapura,6
+Medahalli,6
+Bhuvaneshwari Nagar,6
+Venkatapura,6
+Doddabommasandra,6
+Yemlur,6
+Maragondanahalli,6
+ITI Layout,6
+Ashwathnagar,6
+RMV 2nd Stage,6
+Maruthi Sevanagar,6
+Byrathi Village,6
+Siddapura,6
+Wilson Garden,6
+Bagalakunte,6
+Doddanakundi Industrial Area 2,6
+Amblipura,6
+Hennur Bande,5
+"Off Sarjapur Road, ",5
+Jakkasandra Extension,5
+Kadabagere,5
+Belathur,5
+Vasantha Vallabha Nagar,5
+Doddabanahalli,5
+Hosahalli Extension,5
+Vishwapriya Nagar,5
+Srirampuram,5
+Ramakrishnappa Layout,5
+Badavala Nagar,5
+Sunkadakatte,5
+Doddakannelli,5
+Hiremath Layout,5
+Rajiv Gandhi Nagar,5
+Kurubarahalli,5
+7th Block Jayanagar,5
+Kattigenahalli,5
+3rd Block Banashankari,5
+1st Stage Indira Nagar,5
+Kada Agrahara,5
+Avalahalli,5
+Silk Board,5
+Kallumantapa,5
+Chelekare,5
+Nagawara Junction,5
+9th Block Jayanagar,5
+Rustam Bagh Layout,5
+KR Garden,5
+Mallathahalli,5
+Raghuvanahalli,5
+Maithri Layout,5
+Ashwath Nagar,5
+A Narayanapura,5
+RMV Extension,5
+Nagondanahalli,5
+2nd Block Hrbr Layout,5
+Basavanagara,5
+Ashirvad Colony,5
+Coconut Grove Layout,5
+Nagashetty Halli,5
+Devi Nagar,5
+Virat Nagar,5
+Bagalur,5
+Srirampura,5
+Bellari Road,5
+1st Block HRBR Layout,5
+Doopanahalli,5
+Akshya Nagar,5
+Amruthnagar,5
+Srinivasa Nagar,5
+Ramanjaneyanagar,5
+VGP Layout,5
+Cottonpet,5
+Kacharakanahalli,5
+6th block Koramangala,5
+Stage-4 Bommanahalli,4
+Lavakusha Nagar,4
+Carmelaram,4
+"Judicial Layout, Kanakapura Road, ",4
+Harsha Layout,4
+Ramamurthy Nagar Extension,4
+Chennappa Layout,4
+Moodalapalya,4
+tc.palya,4
+Ngef Layout,4
+Tala Cauvery Layout,4
+Varsova Layout,4
+Udayapur Village,4
+4th Phase JP Nagar,4
+Udaya Nagar,4
+Sai Gardens,4
+Hanumanth Nagar,4
+New Gurappana Palya,4
+Brooke Bond First Cross,4
+Attur Layout,4
+Divya Unnathi Layout,4
+Thanisandra main road,4
+Glass Factory Layout,4
+Kadugondanahalli,4
+Langford Town,4
+8th Block Jayanagar,4
+Defence Colony,4
+Suddaguntepalya,4
+KUDLU MAIN ROAD,4
+Byadarahalli,4
+Tata Nagar,4
+Raja Rajeshwari Nagar 5th Stage,4
+4th Block Jayanagar,4
+Chikkadunnasandra,4
+Chikkathoguru,4
+Manjunath Nagar,4
+Singena Agrahara,4
+Lake City,4
+Pragathi Nagar,4
+Bileshivale,4
+Nyanappana Halli,4
+Geddalahalli,4
+Silver Springs Layout,4
+Kamala Nagar,4
+Kumarapalli,4
+Lavelle Road,4
+Munivenkatppa Layout,4
+Maruthi Nagar,4
+Pattanagere,4
+Govindpura,4
+Puttanahalli,4
+Vinayaka Nagar,4
+AMS Layout,4
+Shanthala Nagar,4
+Doddagubbi,4
+Immadihalli,4
+BSM Extension,4
+BCC Layout,4
+Chikkasandra,4
+Tavarekere,4
+Jnanabharathi Layout,4
+Konanakunte Cross,4
+Basavanna Nagar,4
+Herohalli,4
+Bikasipura,4
+Upkar Layout,4
+Gowdanapalya,4
+Poornapragna Housing Society Layout,4
+Kodathi,4
+ Mysore Highway,4
+BEL Road,4
+Laxmi Sagar Layout,4
+Chinnapanahalli,4
+Kumara Park,4
+Byagadadhenahalli,4
+JCR Layout,4
+Dooravani Nagar,4
+Shankarapuram,4
+Kammagondahalli,4
+Ankappa Layout,3
+Jayanti Nagar,3
+Devara Jeevanahalli,3
+1st Block HBR Layout,3
+Jayamahal,3
+2nd Stage Arekere Mico Layout,3
+Sathya Layout,3
+Jnana Ganga Nagar,3
+Ullal Road,3
+RMV,3
+Prashanth Nagar,3
+5th Block Jayanagar,3
+BTM 4th Stage,3
+Dasappa Layout,3
+Hegganahalli,3
+Ullal Uppanagar,3
+Marasandra,3
+2nd Block Jayanagar,3
+Kodipalya,3
+Kirloskar Layout,3
+HMT Layout,3
+Vadarpalya,3
+Bethel Nagar,3
+Palace Guttahalli,3
+Gkvk Layout,3
+T.C PALYA,3
+Shettigere,3
+Tasker Town,3
+T Dasarahalli,3
+Kamakya Layout,3
+Belatur,3
+Tunganagara,3
+Ashwini layout,3
+Bagalur Main Road,3
+Baba Nagar,3
+Atmananda Colony,3
+NS Palya,3
+Gokula Extension,3
+Thippasandra,3
+3rd Phase JP Nagar,3
+Ilyas Nagar,3
+Kuvempu Nagar,3
+Vaishnavi Layout,3
+Singanayakanahalli,3
+Arehalli,3
+B Channasandra,3
+Nandini Layout,3
+Devarachikkanahalli,3
+Himagiri Meadows,3
+Alfa Garden Layout,3
+Kaveri Nagar,3
+Gattahalli,3
+Kashi Nagar,3
+BHEL Layout,3
+Mathikere Extension,3
+P&T Layout,3
+Surabhi Layout,3
+"Thanisandra Main Road, ",3
+D Group Employees Layout,3
+Basava Nagar,3
+KR Layout,3
+Raghavendra Nagar,3
+Weavers Colony,3
+Alur,3
+Manorayana Palya,3
+J C Nagar,3
+Kithaganur,3
+KSRTC Layout,3
+Narayana Nagar 1st Block,3
+Jakkuru Layout,3
+Canara Bank Layout,3
+Lakshmipura,3
+Venugopal Reddy Layout,3
+Kengeri Hobli,3
+Bhagyalakshmi Avenue,3
+Sector 6 HSR Layout,3
+Hosapalya,3
+Vittal Nagar,3
+Venkatadri Layout,3
+Kumbena Agrahara,3
+Bidadi,3
+Sri Balaji Krupa Layout,3
+Vimanapura,3
+Jinkethimmanahalli,3
+Ramesh Nagar,3
+Sampangi Rama Nagar,3
+OLd Gurappanapalya,3
+SMV layout,3
+Sarvabhouma Nagar,3
+Seshadripuram,3
+Nagaraja Garden,3
+Kachanayakanahalli,3
+Bhuvaneswari Nagar,3
+Dollars Layout,3
+Hagadur,3
+Daadys Gaarden Layout,3
+HOSUR MAIN ROAD,3
+Lakshmi Layout,3
+3rd Block Jayanagar,3
+Mangammanapalya,3
+ Thanisandra,3
+Esther Enclave Layout,3
+Adityanagar,3
+Tirumanahalli,3
+Srinagar,3
+Kavika Layout,3
+Chikka Banaswadi,3
+Devanahalli Int. Airport,3
+Nobo Nagar,3
+Kenchenhalli,3
+RWF West Colony,3
+Mylasandra,3
+Hanumantha Nagar,3
+Crimson Layout,3
+Vinayak Nagar,3
+Anjappa Layout,3
+Makali,3
+Domlur Layout,3
+Brindavan Nagar,3
+Virupakshapura,3
+Coffee Board Layout,3
+Konena Agrahara,3
+Gulimangala,3
+RPC layout,3
+Agrahara Dasarahalli,3
+Pampa Extension,3
+Ayappa Nagar,3
+Govindapura,3
+Chikku Lakshmaiah Layout,2
+Gnana Bharathi,2
+Ashok Nagar,2
+Rajapura,2
+Anwar Layout,2
+Bhoopsandra,2
+Postal Colony,2
+Arishinakunte,2
+Billamaranahalli,2
+Church Street,2
+Sanne Amanikere,2
+Shetty Halli,2
+"Electronic city Phase 1, ",2
+Naidu Layout,2
+Anugrah Layout,2
+Annapurneshwari Nagar,2
+Sadaramangala,2
+Raghavendra Layout,2
+Shingapura,2
+Phase 1 Kammasandra,2
+Guddadahalli,2
+Vasanthpura,2
+Telecom Layout,2
+MCECHS  layout,2
+Mariyannapalya,2
+Palace Road,2
+Challaghatta,2
+Yarandahalli,2
+Vibuthipura,2
+Geleyara Balaga Layout,2
+Green Garden Layout,2
+Coconut Garden,2
+Rajankunte,2
+MLA Layout,2
+Kyalasanahalli,2
+Rajarajeshwari Nagara,2
+Celebrity Paradise Layout,2
+Marenahalli,2
+Palanahalli,2
+Dr Shivarama Karantha Nagar,2
+Kullappa Colony,2
+Chokkanahalli,2
+Classic Paradise Layout,2
+Nanjappa Garden,2
+Hadosiddapura,2
+Chennammanakere Achukattu,2
+Green Domain Layout,2
+Cleveland Town,2
+Syndicate Bank Colony,2
+"ECC Road, Whitefield, ",2
+Devasandra Extension,2
+"Varthur Road, ",2
+Devanahalli Road,2
+Green Woods Layout,2
+Jyothi Nagar,2
+Shanthi Layout,2
+Manjunatha Layout,2
+Nandi Durga Road,2
+Soundarya Layout,2
+Amarjyothi Colony,2
+Akshayanagara West,2
+Anand nagar,2
+Gattigere,2
+Kannur,2
+Rajarajeshwari nagar,2
+CQAL Layout,2
+frazertown,2
+Lakshmiamma Garden,2
+Mahaganapathy Nagar,2
+Andrahalli,2
+Vyalikaval,2
+Balaji Gardens Layout,2
+ Rachenahalli,2
+Jai Bheema Nagar,2
+Kothnur Narayanapura,2
+Dodda Kempaiah Layout,2
+Hunasamaranahalli,2
+GD Layout,2
+"JP Nagar 7th Phase, ",2
+Bidrahalli,2
+Chikkakannalli,2
+Yeshwanthpur Industrial Suburb,2
+Nandi Hills,2
+Ferrar Nagar,2
+Dwarka Nagar,2
+Thurahalli,2
+Kempapura,2
+Kariyammana Agrahara,2
+ Electronic City,2
+"Whitefield, ",2
+Omkar Nagar,2
+Sunder Ram Shetty Nagar,2
+Teachers Colony,2
+Bettahalsoor,2
+Jaya Mahal layout,2
+Vijinapura,2
+VHBCS Layout,2
+Friends Colony,2
+Doddabidrakallu,2
+Hoodi Layout,2
+Govindaraja Nagar Ward,2
+Someshwara Layout,2
+Kathreguppe,2
+HAL 3rd Stage,2
+Vibhutipura Extension,2
+Veerannapalya,2
+SRINIVASAPURA,2
+Pulkeshi Nagar,2
+Kempegowda Nagar,2
+Indra Nagar,2
+Amam Enclave Layout,2
+Versova Layout,2
+Patelappa Layout,2
+Lottegolla Halli,2
+Sneha Colony,2
+Remco Bhel Layout,2
+Panduranga Nagar,2
+Harappanahalli,2
+Sri Venkateshpura Layout,2
+St. John's Road,2
+Lal Bahadur Shastri Nagar,2
+V.V Puram,2
+manyata park,2
+Muthurayya Swamy Layout,2
+Bendiganahalli,2
+Hosakerehalli Layout,2
+Hennagara,2
+Dollar Scheme Colony,2
+Omarbagh Layout,2
+Aishwarya Crystal Layout,2
+Srinivas Colony,2
+Subash Nagar,2
+1st Block BEL Layout,2
+Anantapura,2
+Langford Gardens,2
+ south,2
+3rd Block Koramangala,2
+Ganesha Block,2
+Gidada Konnenahalli,2
+Near International Airport,2
+Krishna Nagar,2
+Nanjappa Layout,2
+BCMC Layout,2
+KEB Colony,2
+Rajasree Layout,2
+Madavara,2
+Garebhavipalya,2
+Neelamangala,2
+Brindavan Layout,2
+cooketown,2
+Muneshwara Nagar,2
+Suragajakkanahalli,2
+Sampigehalli,2
+Chamundi Nagar,2
+Krishna Reddy Layout,2
+Harohalli,2
+Veer Sandra,2
+RMV Extension Stage 2,2
+Sadanand Nagar,2
+Dena Bank Colony,2
+Kothnoor Dinne,2
+Uday Nagar,2
+RR Layout,2
+Anjana Nagar,2
+Janatha Colony,2
+Veersandra,2
+Tigalarpalya,2
+2nd Block Bel Layout,2
+Ramanashree Enclave,2
+Upadhyaya Layout,2
+Vivek Nagar,2
+Ramchandrapuram,2
+Annaiah Reddy Layout,2

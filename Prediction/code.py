@@ -55,16 +55,14 @@ df = pd.get_dummies(df, columns=['Area_Type'], drop_first=True)
 
 
 location_stats = df['Location'].value_counts()
-# locations_less_than_20 = location_stats[location_stats <= 1]
-# df['Location'] = df['Location'].apply(lambda x: 'Other' if x in locations_less_than_20 else x)
+locations_less_than_20 = location_stats[location_stats <= 1]
+df['Location'] = df['Location'].apply(lambda x: 'Other' if x in locations_less_than_20 else x)
 
 location_stats = df['Location'].value_counts()
-# location_stats.to_csv("Prediction/Data/checking.csv")
+location_stats.to_csv("Prediction/Data/checking.csv")
 
 df = pd.get_dummies(df, columns=['Location'], drop_first=True)
 # print(df)
-
-
 
 
 
@@ -85,7 +83,7 @@ regr.fit(X_train, Y_train)
 pred = regr.predict(X_test)
 
 # Evaluate
-# print("R² Score:", r2_score(Y_test, pred))
+print("R² Score:", r2_score(Y_test, pred))
 
 
 # print("MAE:", mean_absolute_error(Y_test, pred))
